@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:yu="http://schemas.android.com/apk/res-auto"
+    tools:context=".MainActivity">
+
+    <com.yuyang.zidingyiettr.MyAttributeView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        yu:my_age="100"
+        yu:my_bg="@drawable/jtx"
+        yu:my_name="android0220"
+        />
+
+</LinearLayout>

@@ -1,1 +1,1 @@
-include ':app', ':ykview', ':adsviewpager', ':xialakuang', ':viewpagerdemo'
+include ':app', ':ykview', ':adsviewpager', ':xialakuang', ':viewpagerdemo', ':kaiguanview', ':zidingyiettr', ':myviewpager', ':scrollertest'

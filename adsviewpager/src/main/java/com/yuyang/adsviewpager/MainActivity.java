@@ -114,7 +114,7 @@ public class MainActivity extends AppCompatActivity {
 
             point.setLayoutParams(params);  //设置导航点的宽高
 
-            ll_point_group.addView(point);  //添加5个导航点
+            ll_point_group.addView(point);  //添加5个导航点，添加到ViewGroup中
         }
 
 
